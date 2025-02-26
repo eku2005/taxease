@@ -158,29 +158,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 *Disclaimer: TaxEase is designed as an assistant tool and should not replace professional tax advice. Always consult with a qualified tax professional for your specific situation.*
-
-*Developed for Girl Hackathon 2025 - Software Engineering Track*
-```
-
-<div style="text-align: center">⁂</div>
-
-[^1]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/c6a2c744-daa9-496e-91da-e70b8c90f164/tax_assistant.py
-
-[^2]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/29dc9c83-3eaa-4c88-a6bc-1074b13ee747/bank_statement_analyzer.py
-
-[^3]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/f12c8a5b-3fb5-446d-a3a8-55037293e225/tax_assistant_ui.py
-
-[^4]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/df461742-a4ac-486c-8317-69127de0390a/tax_assistant_base.py
-
-[^5]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/d2002a77-6bb9-4a67-8ff7-d869009ea0a6/tax_assistant.py
-
-[^6]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/d66598f0-b632-44a0-a6ea-a47f651cfefb/bank_statement_ui.py
-
-[^7]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/428b6b6e-8108-4c74-a4f2-afcf5a32d3d6/README.md
-
-[^8]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/60e4b613-7b8b-4fd0-b554-168c1e9a0d1e/requirements.txt
-
-[^9]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/1f6bce71-2843-47b5-ba94-a33bf4a7910f/tax_rules.py
-
-[^10]: https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/52529817/2773ba6f-5748-4936-a893-a1994affdf85/Ekam-Sandhu_Girl-Hackathon_SWE_2025.pdf
-
