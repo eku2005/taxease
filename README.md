@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Indian Income Tax Department for tax guidelines
 - Streamlit for the interactive web framework
-- Google for the Gemini AI capabilities
+- Google for the Gemini AI capabilities.
 
 ---
 
