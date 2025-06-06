@@ -214,4 +214,4 @@ def generate_tax_report(tax_assistant):
         report = tax_assistant.generate_tax_report()
     
     # Display and download report
-    filename = f"tax_report_{st.session_state.user_data['personal'
+    filename = f"tax_report_{st.session_state.user_data['personal']
