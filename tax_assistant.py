@@ -214,4 +214,12 @@ def generate_tax_report(tax_assistant):
         report = tax_assistant.generate_tax_report()
     
     # Display and download report
-    filename = f"tax_report_{st.session_state.user_data['personal']
+        # Display and download report
+    filename = f"tax_report_{st.session_state.user_data['personal'].get('pan', 'unknown')}.txt"
+    st.text_area("Tax Report", report, height=400)
+
+    with open(filename, "w") as f:
+        f.write(report)
+    with open(filename, "rb") as f:
+        st.download_button("Download Report", data=f, file_name=filename)
+
